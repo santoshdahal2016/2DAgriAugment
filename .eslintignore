@@ -1,0 +1,8 @@
+dist
+dist/
+src/libs/
+src/libs
+public
+public/
+node_modules
+node_modules/ 
